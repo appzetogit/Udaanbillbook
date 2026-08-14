@@ -6,7 +6,6 @@ temp_interactive_push.bat
 
 frontend/.env
 backend/.env
-**/.env
 **/*.env.local
 
 
@@ -17,3 +16,5 @@ frontend/node_modules
 
 *.log
 Backend/auth_debug.log
+config.bat
+node_modules
